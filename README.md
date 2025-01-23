@@ -13,7 +13,7 @@ This project is a **Tkinter-based RSA encryption application** that allows users
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/RSA-crypting.git
+git clone https://github.com/mehdidinari/RSA-crypting.git
 cd RSA-crypting
 ```
 
